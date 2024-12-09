@@ -1,11 +1,24 @@
-- 👋 Hi, I’m Nathan
-- 👀 I’m interested in deep rl
-- 🌱 I’m currently learning Azure
-- 💞️ I’m looking to collaborate on off-policy rl
-- 📫 How to reach me: natemcarey@gmail.com
+# Hi there, I'm Nathan! 👋  
+Engineer and Machine Learning Enthusiast with a knack for solving complex problems through innovative solutions. I recently completed my MSc in Machine Learning at UCL, where I focused on **Deep Reinforcement Learning** and its applications in HVAC optimization. My background also includes Electrical Engineering, enriched by hands-on experience in IoT and scalable system design.
 
+I specialize in **end-to-end development**, from building intelligent systems to deploying them on cloud platforms like **Azure** and **Google Cloud**. My expertise lies in **Reinforcement Learning**, **AI for Energy Efficiency**, and **MLOps**, and I'm passionate about combining cutting-edge AI with practical engineering solutions. 🌍
 
-<!---
-itsnemoooo/itsnemoooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔭 What I'm Working On
+- **Three Climate Experiment**: An innovative, deep-reinforcement-learning-based HVAC solution to optimize energy use and comfort in office spaces.
+- **Sold by RL**: Agentic pricing in large-scale ecomerce websites, managing supply along with competitor price predictions.
+- Exploring creative, human-AI interactions that gamify **Reinforcement Learning training**.
+
+## 🌱 Currently Exploring
+- Advanced MLOps with **Azure** and **Google Cloud**.
+- Applied AI safety and interpretability in decision-making systems.
+
+## 🚀 Core Skills
+- Machine Learning (Reinforcement Learning, NLP, Computer Vision)
+- Cloud Infrastructure (Azure, Google Cloud, Firebase)
+- Software Engineering (Python, Flask, React)
+- Distributed Systems and IoT Integration
+
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/natemcarey)  
+[![Website](https://img.shields.io/badge/Website-Visit-orange)]([https://yourdomain.com](https://itsnemoooo.github.io/)  
+
