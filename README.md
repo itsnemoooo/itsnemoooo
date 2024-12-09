@@ -8,8 +8,8 @@ Engineer and Machine Learning Enthusiast with a knack for solving complex proble
 I specialize in **end-to-end development**, from building intelligent systems to deploying them on cloud platforms like **Azure** and **AWS**. My expertise lies in **Reinforcement Learning**, **AI for Energy Efficiency**, and **MLOps**, and I'm passionate about combining cutting-edge AI with practical engineering solutions. 🌍
 
 ## What I'm Working On
-- **Three Climate Experiment**: A novel, deep-reinforcement-learning-based HVAC solution to optimize energy use and comfort in office spaces.
-- **Sold by RL**: Agentic pricing in large-scale ecomerce websites, managing supply along with competitor price predictions.
+- **Three Climate Experiment**: A novel, deep-reinforcement-learning-based HVAC solution to optimize energy use and comfort in office spaces (SDG Goals: 7, 11, 13).
+- **Sold by RL**: Agentic pricing in large-scale ecomerce websites, managing supply along with competitor price predictions (SDG Goal: 12)
 - Exploring creative, human-AI interactions that gamify **Reinforcement Learning training**.
 
 ## 📫 Let's Connect!
