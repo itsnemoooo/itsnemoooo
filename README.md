@@ -3,12 +3,12 @@
 # Hi there, I'm Nathan! 👋
 
 </div>
-Engineer and Machine Learning Enthusiast with a knack for solving complex problems through innovative solutions. I recently completed my MSc in Machine Learning at UCL, where I focused on **Deep Reinforcement Learning** and its applications in HVAC optimization. My background also includes Electrical Engineering, enriched by hands-on experience in IoT and scalable system design.
+Engineer and Machine Learning Enthusiast with a knack for solving complex problems through innovative solutions. I recently completed my MSc in Machine Learning at UCL, where I focused on Deep Reinforcement Learning and its applications in HVAC optimization. My background also includes Electrical Engineering, enriched by hands-on experience in IoT and scalable system design.
 
-I specialize in **end-to-end development**, from building intelligent systems to deploying them on cloud platforms like **Azure** and **Google Cloud**. My expertise lies in **Reinforcement Learning**, **AI for Energy Efficiency**, and **MLOps**, and I'm passionate about combining cutting-edge AI with practical engineering solutions. 🌍
+I specialize in **end-to-end development**, from building intelligent systems to deploying them on cloud platforms like **Azure** and **AWS**. My expertise lies in **Reinforcement Learning**, **AI for Energy Efficiency**, and **MLOps**, and I'm passionate about combining cutting-edge AI with practical engineering solutions. 🌍
 
 ## What I'm Working On
-- **Three Climate Experiment**: An innovative, deep-reinforcement-learning-based HVAC solution to optimize energy use and comfort in office spaces.
+- **Three Climate Experiment**: A novel, deep-reinforcement-learning-based HVAC solution to optimize energy use and comfort in office spaces.
 - **Sold by RL**: Agentic pricing in large-scale ecomerce websites, managing supply along with competitor price predictions.
 - Exploring creative, human-AI interactions that gamify **Reinforcement Learning training**.
 
