@@ -7,20 +7,10 @@ Engineer and Machine Learning Enthusiast with a knack for solving complex proble
 
 I specialize in **end-to-end development**, from building intelligent systems to deploying them on cloud platforms like **Azure** and **Google Cloud**. My expertise lies in **Reinforcement Learning**, **AI for Energy Efficiency**, and **MLOps**, and I'm passionate about combining cutting-edge AI with practical engineering solutions. 🌍
 
-## 🔭 What I'm Working On
+## What I'm Working On
 - **Three Climate Experiment**: An innovative, deep-reinforcement-learning-based HVAC solution to optimize energy use and comfort in office spaces.
 - **Sold by RL**: Agentic pricing in large-scale ecomerce websites, managing supply along with competitor price predictions.
 - Exploring creative, human-AI interactions that gamify **Reinforcement Learning training**.
-
-## 🌱 Currently Exploring
-- Advanced MLOps with **Azure** and **Google Cloud**.
-- Applied AI safety and interpretability in decision-making systems.
-
-## 🚀 Core Skills
-- Machine Learning (Reinforcement Learning, NLP, Computer Vision)
-- Cloud Infrastructure (Azure, Google Cloud, Firebase)
-- Software Engineering (Python, Flask, React)
-- Distributed Systems and IoT Integration
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/natemcarey)  
