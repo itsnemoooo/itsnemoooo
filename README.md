@@ -24,5 +24,5 @@ I specialize in **end-to-end development**, from building intelligent systems to
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/natemcarey)  
-[![Website](https://img.shields.io/badge/Website-Visit-orange)]([https://yourdomain.com](https://itsnemoooo.github.io/))  
+[![Website](https://img.shields.io/badge/Website-Visit-orange)](https://itsnemoooo.github.io)  
 
